@@ -1,2 +1,2 @@
-# pr-ctica-colaborativa-A
+# practica-colaborativa-A
 Este repositorio tiene fines académicos 
